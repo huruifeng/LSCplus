@@ -1,0 +1,43 @@
+Only FASTA files are supported by the latest LSCplus.
+We have developed a toolkit (LSCplus_toolkit) for preparing SR.fa and LR.fa file
+
+1. ConverToPacBio_q2a.py
+
+    usage: ./ConverToPacBio_q2a.py input_filename"
+       or: or python ConverToPacBio_q2a.py input_filename
+   
+    Convert Long Reads FASTQ format to FASTA format with modified names 
+    (the pacbio reads names should be in the format "name/index/1_(length)", 
+    where (length) is the length of the read. 
+   The default output is LR,fa
+
+2. SR_fastq2a.py
+
+    usage: ./SR_fastq2a.py input_filename
+       or: or python SR_fastq2a.py input_filename
+   
+    Convert Short Reads FASTQ format to FASTA format.
+    The default output is input_filename+'_out.fasta'
+
+3. mergeSR.py 
+
+    usage: ./mergeSR.py filename1 filename2
+       or: or mergeSR.py filename1 filename2
+   
+    Concatenate two short reads files
+    The default output is SR.fa
+
+4. selectTopN.py 
+
+    usage: ./selectTopN.py input_file N output_file
+       or: or selectTopN.py input_file N output_file
+   
+    Selecte the aligned subsequences for the first N reads;
+    and write to output_file
+5. SR_pair2single.py
+	 usage: ./SR_pair2single.py input_filename
+		or python SR_pair2single.py input_filename
+	Convert Short Reads Pair-end format to single-end format with modified names 	
+	
+
+	
