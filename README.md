@@ -7,11 +7,11 @@ The single molecule, real time (SMRT) sequencing technology of Pacific Bioscienc
 
 ## Getting Started 
 *   Check [Requirements](https://github.com/huruifeng/LSCplus/wiki/Documentation#requirements) for running LSCplus.
-*   Read the [Example](Documentation#example) data.
-*   [Prepare Datasets](Documentation#prepare_datasets) for LSCplus.
-*   Prepare [Configuration file](Documentation#configuration_file) for LSCplus.
+*   Read the [Example](https://github.com/huruifeng/LSCplus/wiki/Documentation#example) data.
+*   [Prepare Datasets](https://github.com/huruifeng/LSCplus/wiki/Documentation#prepare_datasets) for LSCplus.
+*   Prepare [Configuration file](https://github.com/huruifeng/LSCplus/wiki/Documentation#configuration_file) for LSCplus.
 *   Download the latest version of LSCplus.
-*   Follow the [Tutorial](Documentation#tutorial) to run LSCplus.
+*   Follow the [Tutorial](https://github.com/huruifeng/LSCplus/wiki/Documentation#tutorial) to run LSCplus.
 *   Get the results.
 
 **Please refer the [Wiki Page](https://github.com/huruifeng/LSCplus/wiki) for More details**
