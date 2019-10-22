@@ -17,5 +17,5 @@ The single molecule, real time (SMRT) sequencing technology of Pacific Bioscienc
 **Please refer the [Wiki Page](https://github.com/huruifeng/LSCplus/wiki) for More details**
 
 ## Note
-*  LSCplus_cpp: Error Correction Step is implemented in C++;
-*  LSCplus_Pyhon: Error Correction Step is implemented in Python.
+*  [LSCplus_cpp](https://github.com/huruifeng/LSCplus/blob/master/files/LSCplus2.25_cpp.tar.gz): Error Correction Step is implemented in C++;
+*  [LSCplus_Pyhon](https://github.com/huruifeng/LSCplus/blob/master/files/LSCplus2.25_py.tar.gz): Error Correction Step is implemented in Python.
