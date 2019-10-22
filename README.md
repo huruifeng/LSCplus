@@ -14,7 +14,7 @@ The single molecule, real time (SMRT) sequencing technology of Pacific Bioscienc
 *   Follow the [Tutorial](Documentation#tutorial) to run LSCplus.
 *   Get the results.
 
-**Please refer the [Wiki Page](Documentation) for More details**
+**Please refer the [Wiki Page](https://github.com/huruifeng/LSCplus/wiki) for More details**
 
 ## Note
 *  LSCplus_cpp: Error Correction Step is implemented in C++;
