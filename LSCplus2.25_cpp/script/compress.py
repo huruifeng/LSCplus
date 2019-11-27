@@ -76,8 +76,7 @@ while(True):
     if len(cps_seq)-n_count>=MinNonN and n_count<=MaxN:
         outseq.write(readname+'\n' + cps_seq + '\n')
         idx.write(readname + "\t" + ','.join(cps_idx) + '\n')
-        
-   
+           
 inseq.close()
 outseq.close()
 idx.close()
